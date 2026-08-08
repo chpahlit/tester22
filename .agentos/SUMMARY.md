@@ -1,17 +1,21 @@
-# Zusammenfassung
+# Zusammenfassung für die Abnahme
 
-Es wurde eine neue Datei `SMOKE.md` im Wurzelverzeichnis des Repositorys angelegt.
-Sie enthält lediglich eine Überschrift und einen erklärenden Satz, der besagt,
-dass die Datei aus einem automatisierten Funktionstest der Werkzeugkette stammt.
+## Was wurde gemacht?
 
-## Was du prüfen sollst
+Dies war ein reiner Funktionstest, um zu prüfen, ob die Kommunikationswege zwischen dem
+Agenten und dem Projektsystem (Ticket lesen, Notiz ablegen, Kommentar schreiben) korrekt
+funktionieren. Es wurde eine neue Datei `RUECKKANAL.md` im Wurzelverzeichnis angelegt, die
+auflistet, welche Werkzeuge dabei benutzt wurden. Am eigentlichen Code oder Verhalten der
+Anwendung ändert sich nichts.
 
-1. Öffne in der Preview-Umgebung die Datei `SMOKE.md` im Wurzelverzeichnis.
-2. Prüfe, dass sie eine Überschrift und einen Satz enthält, der erklärt,
-   dass die Datei aus einem automatisierten Funktionstest stammt.
-3. Prüfe, dass sonst keine anderen Dateien im Repository verändert wurden.
+## Was soll geprüft werden?
 
-## Anmerkungen
+- Prüfen, dass die Datei `RUECKKANAL.md` im Hauptverzeichnis des Projekts vorhanden ist
+  und die drei benutzten Werkzeuge nennt.
+- Im Ticket-Verlauf ist ein Zwischenstand-Kommentar sichtbar.
+- In der Wissensbasis liegt ein neuer Eintrag "Rückkanal-Probe".
 
-Dies war ein reiner Funktionstest der Werkzeugkette, keine fachliche Aufgabe.
-Es gab nichts Unklares oder Unsicheres bei der Umsetzung.
+## Offene Punkte / Unsicherheiten
+
+Keine. Die Aufgabe war eindeutig als Funktionstest beschrieben und wurde wie vorgegeben
+mit genau einer geänderten Datei umgesetzt.
