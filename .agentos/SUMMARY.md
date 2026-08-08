@@ -1,17 +1,21 @@
-# Zusammenfassung
+# Zusammenfassung für die Abnahme
 
-Es wurde eine neue Datei `SMOKE.md` im Wurzelverzeichnis des Repositorys angelegt.
-Sie enthält lediglich eine Überschrift und einen erklärenden Satz, der besagt,
-dass die Datei aus einem automatisierten Funktionstest der Werkzeugkette stammt.
+Skill wurde geladen.
 
-## Was du prüfen sollst
+Es wurde eine neue Textdatei namens `STUFE25.md` im Hauptverzeichnis des Projekts
+angelegt. Sie enthält eine Überschrift sowie zwei kurze Sätze, die erklären, dass
+die Datei aus einem automatisierten Funktionstest stammt und an welchem Datum
+dieser Test gelaufen ist (2026-08-08). Es wurde sonst nichts am Projekt verändert.
 
-1. Öffne in der Preview-Umgebung die Datei `SMOKE.md` im Wurzelverzeichnis.
-2. Prüfe, dass sie eine Überschrift und einen Satz enthält, der erklärt,
-   dass die Datei aus einem automatisierten Funktionstest stammt.
-3. Prüfe, dass sonst keine anderen Dateien im Repository verändert wurden.
+## Was geprüft werden soll
 
-## Anmerkungen
+- In der Vorschau-Umgebung öffnen und prüfen, dass im Wurzelverzeichnis eine
+  Datei `STUFE25.md` existiert.
+- Prüfen, dass die Datei eine Überschrift und zwei Sätze enthält (Hinweis auf
+  Funktionstest und Datum).
+- Prüfen, dass keine andere Datei im Projekt verändert wurde.
 
-Dies war ein reiner Funktionstest der Werkzeugkette, keine fachliche Aufgabe.
-Es gab nichts Unklares oder Unsicheres bei der Umsetzung.
+## Unsicherheiten
+
+Keine. Es handelt sich um einen reinen Funktionstest der Werkzeugkette ohne
+inhaltliche Anforderungen darüber hinaus.
