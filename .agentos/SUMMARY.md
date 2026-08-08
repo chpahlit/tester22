@@ -1,14 +1,13 @@
 # Zusammenfassung
 
-Es wurde eine neue Datei `SMOKE.md` im Wurzelverzeichnis des Repositorys angelegt.
-Sie enthält lediglich eine Überschrift und einen erklärenden Satz, der besagt,
-dass die Datei aus einem automatisierten Funktionstest der Werkzeugkette stammt.
+Es wurde eine neue Datei `NETRUNNER.md` im Wurzelverzeichnis des Repositorys
+angelegt. Sie enthält eine Überschrift und einen kurzen, freundlichen
+Begrüßungssatz an den ".NET-Runner".
 
 ## Was du prüfen sollst
 
-1. Öffne in der Preview-Umgebung die Datei `SMOKE.md` im Wurzelverzeichnis.
-2. Prüfe, dass sie eine Überschrift und einen Satz enthält, der erklärt,
-   dass die Datei aus einem automatisierten Funktionstest stammt.
+1. Öffne in der Preview-Umgebung die Datei `NETRUNNER.md` im Wurzelverzeichnis.
+2. Prüfe, dass sie eine Überschrift und einen Begrüßungssatz enthält.
 3. Prüfe, dass sonst keine anderen Dateien im Repository verändert wurden.
 
 ## Anmerkungen
